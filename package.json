@@ -42,7 +42,7 @@
 		"svgo": "^3.0.2",
 		"swiper": "^11.0.1",
 		"tailwind-clip-path": "^1.0.0",
-		"tailwind-scrollbar": "^3.0.0",
+		"tailwind-scrollbar": "^4.0.0",
 		"tailwindcss": "^4.0.1",
 		"tslib": "^2.5.0",
 		"typescript": "^5.0.2",
